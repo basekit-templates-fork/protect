@@ -1,5 +1,6 @@
 {
 	"name":"Protect",
+	"screenshot": "protect-screenshot.jpg",
 	"thumbnail":"protect.png",
 	"templateType":"standard",
 	"pageTypes": ["home"],
